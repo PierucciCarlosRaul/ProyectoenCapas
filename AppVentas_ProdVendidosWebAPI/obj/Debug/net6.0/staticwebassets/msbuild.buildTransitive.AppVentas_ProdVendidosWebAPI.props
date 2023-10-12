@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AppVentas_ProdVendidosWebAPI.props" />
+</Project>

@@ -20,9 +20,9 @@ namespace CapaNegocio
            UsuariosDatos.ModificarUsuario(usu);
         }
 
-        public static void EliminarUsuario(Usuario usu)
+        public static void EliminarUsuario(int IdUsuario)
         {
-            UsuariosDatos.EliminarUsuario(usu);
+            UsuariosDatos.EliminarUsuario(IdUsuario);
         }
 
         public static List<Usuario> ListarUsuarios()

@@ -79,7 +79,7 @@ namespace CapaDatos
             }
         }
 
-        public static void EliminarProducto(Producto prod)
+        public static void EliminarProducto(int IdProducto)
         {
            
             string _sente = " DELETE FROM Producto WHERE Id = @Id ";
@@ -90,7 +90,7 @@ namespace CapaDatos
                     conexion.Open();
                     using (SqlCommand command = new SqlCommand(_sente, conexion))
                     {
-                        command.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = prod.IdProducto });
+                        command.Parameters.Add(new SqlParameter("Id", SqlDbType.Int) { Value = IdProducto });
                         command.ExecuteNonQuery();
                     }
                     conexion.Close();

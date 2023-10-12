@@ -45,6 +45,11 @@ namespace CapaDatos
                             Idventa = Convert.ToInt32(commando.ExecuteScalar());
                         }
 
+                        //if (true)
+                        //{
+
+                        //}
+
                         foreach (var _det in ven.listaDetalleProductoVendido)
                         {
                             ProductoVendido prodv = new ProductoVendido();

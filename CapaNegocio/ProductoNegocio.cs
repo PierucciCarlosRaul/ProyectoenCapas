@@ -19,9 +19,9 @@ namespace CapaNegocio
         {
             ProductosDatos.ModificarProducto(prod);
         }
-        public static void EliminarProducto(Producto prod)
+        public static void EliminarProducto(int IdProducto)
         {
-            ProductosDatos.EliminarProducto(prod);
+            ProductosDatos.EliminarProducto(IdProducto);
         }
         public static List<Producto> listarProductos()
         {

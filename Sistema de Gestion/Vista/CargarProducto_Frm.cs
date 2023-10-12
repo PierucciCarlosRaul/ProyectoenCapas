@@ -391,7 +391,7 @@ namespace Sistema_de_Gestion.Vista
                     
                         if (resultado == DialogResult.Yes)
                         {
-                            ProductoNegocio.EliminarProducto(_prod);
+                            ProductoNegocio.EliminarProducto(_prod.IdProducto);
                             Mensajes.MostrarMensaje("El producto " + _prod.IdProducto + " se eliminó correctamente", "Exito", MessageBoxIcon.Information, MessageBoxButtons.OK);
                            
                             ListarProductos();

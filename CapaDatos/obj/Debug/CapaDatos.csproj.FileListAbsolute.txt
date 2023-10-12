@@ -1,7 +1,9 @@
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\bin\Debug\CapaDatos.dll
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\bin\Debug\CapaDatos.pdb
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\bin\Debug\System.Data.SqlClient.dll
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\bin\Debug\System.Data.SqlClient.xml
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete

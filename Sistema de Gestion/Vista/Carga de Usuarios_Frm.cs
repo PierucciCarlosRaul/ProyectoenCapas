@@ -318,7 +318,7 @@ namespace Sistema_de_Gestion.Vista
 
                         if (resultado == DialogResult.Yes)
                         {
-                            UsuarioNegocio.EliminarUsuario(_usu);
+                            UsuarioNegocio.EliminarUsuario(_usu.IdUsuario);
                             Mensajes.MostrarMensaje("El Usuario " + _usu.IdUsuario + " se eliminó correctamente", "Exito", MessageBoxIcon.Information, MessageBoxButtons.OK);
                             
                             ListarUsuarios();

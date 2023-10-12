@@ -75,7 +75,7 @@ namespace CapaDatos
             }
         }
 
-        public static void EliminarUsuario(Usuario usu)
+        public static void EliminarUsuario(int IdUsuario)
         {
             
             string _sente = " DELETE FROM Usuario WHERE IdUsuario = @IdUsuario ";
@@ -86,7 +86,7 @@ namespace CapaDatos
                     conexion.Open();
                     using (SqlCommand command = new SqlCommand(_sente, conexion))
                     {
-                        command.Parameters.Add(new SqlParameter("IdUsuario", SqlDbType.Int) { Value = usu.IdUsuario });
+                        command.Parameters.Add(new SqlParameter("IdUsuario", SqlDbType.Int) { Value = IdUsuario });
                         command.ExecuteNonQuery();
                     }
                     conexion.Close();
