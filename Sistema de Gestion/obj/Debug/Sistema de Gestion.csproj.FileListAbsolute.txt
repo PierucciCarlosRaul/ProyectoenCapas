@@ -35,3 +35,26 @@ C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sis
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\Sistema de Gestion\obj\Debug\Sistema de Gestion.csproj.CopyComplete
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\Sistema de Gestion\obj\Debug\Sistema de Gestion.exe
 C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\Sistema de Gestion\obj\Debug\Sistema de Gestion.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\Sistema de Gestion.exe.config
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\Sistema de Gestion.exe
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\Sistema de Gestion.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\CapaEntidades.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\CapaNegocio.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\CapaDatos.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\CapaEntidades.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\CapaNegocio.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema de Gestion.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema_de_Gestion.Properties.Resources.resources
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema_de_Gestion.Vista.Carga_de_Usuarios_Frm.resources
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema_de_Gestion.Vista.CargarProducto_Frm.resources
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema_de_Gestion.Vista.ConsultaVentas_Frm.resources
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema_de_Gestion.Vista.MenuPrincipal_Frms.resources
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema_de_Gestion.Vista.VentasAbm_Frm.resources
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema de Gestion.csproj.GenerateResource.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema de Gestion.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema de Gestion.csproj.CopyComplete
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema de Gestion.exe
+C:\Users\Carlos\Documents\ProyectoenCapas\Sistema de Gestion\obj\Debug\Sistema de Gestion.pdb
