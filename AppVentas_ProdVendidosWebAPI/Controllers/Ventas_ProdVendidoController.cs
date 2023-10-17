@@ -32,5 +32,7 @@ namespace AppVentas_ProdVendidosWebAPI.Controllers
         {
             VentaNegocio.InsertarVenta(ven);
         }
+
+
     }
 }
