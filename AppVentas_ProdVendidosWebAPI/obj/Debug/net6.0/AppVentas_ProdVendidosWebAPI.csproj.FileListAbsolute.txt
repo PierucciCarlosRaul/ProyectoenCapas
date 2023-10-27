@@ -1,44 +1,44 @@
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.exe
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.deps.json
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.runtimeconfig.json
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.pdb
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaDatos.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaEntidades.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaNegocio.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaEntidades.pdb
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaNegocio.pdb
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaDatos.pdb
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.csproj.AssemblyReference.cache
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.AssemblyInfoInputs.cache
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.AssemblyInfo.cs
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.AppVentas_ProdVendidosWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AppVentas_ProdVendidosWebAPI.props
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppVentas_ProdVendidosWebAPI.props
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppVentas_ProdVendidosWebAPI.props
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\scopedcss\bundle\AppVentas_ProdVendidosWebAPI.styles.css
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.csproj.CopyComplete
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\refint\AppVentas_ProdVendidosWebAPI.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.pdb
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.genruntimeconfig.cache
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\ref\AppVentas_ProdVendidosWebAPI.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.exe
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.deps.json
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.runtimeconfig.json
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\AppVentas_ProdVendidosWebAPI.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.AssemblyInfo.cs
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.AppVentas_ProdVendidosWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.AppVentas_ProdVendidosWebAPI.props
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AppVentas_ProdVendidosWebAPI.props
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AppVentas_ProdVendidosWebAPI.props
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\scopedcss\bundle\AppVentas_ProdVendidosWebAPI.styles.css
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.csproj.CopyComplete
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\refint\AppVentas_ProdVendidosWebAPI.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\AppVentas_ProdVendidosWebAPI.genruntimeconfig.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\AppVentas_ProdVendidosWebAPI\obj\Debug\net6.0\ref\AppVentas_ProdVendidosWebAPI.dll

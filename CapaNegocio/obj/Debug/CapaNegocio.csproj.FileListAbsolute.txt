@@ -1,13 +1,13 @@
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\bin\Debug\CapaNegocio.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\bin\Debug\CapaNegocio.pdb
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\bin\Debug\CapaDatos.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\bin\Debug\CapaEntidades.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\bin\Debug\System.Data.SqlClient.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\bin\Debug\CapaDatos.pdb
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\bin\Debug\CapaEntidades.pdb
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\bin\Debug\System.Data.SqlClient.xml
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\obj\Debug\CapaNegocio.dll
-C:\Users\Carlos\Desktop\Desafio en Capas\Pierucci Carlos Raul Desafio Nro. 2\Sistema de Gestion\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Carlos\Documents\ProyectoenCapas\CapaNegocio\obj\Debug\CapaNegocio.pdb
