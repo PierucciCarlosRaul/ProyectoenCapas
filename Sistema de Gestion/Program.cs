@@ -17,7 +17,7 @@ namespace Sistema_de_Gestion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MenuPrincipal_Frms());
+            Application.Run(new Login());
         }
     }
 }

@@ -70,6 +70,12 @@
     <Compile Include="Vista\ConsultaVentas_Frm.Designer.cs">
       <DependentUpon>ConsultaVentas_Frm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vista\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista\MenuPrincipal_Frms.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,6 +105,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\ConsultaVentas_Frm.resx">
       <DependentUpon>ConsultaVentas_Frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\MenuPrincipal_Frms.resx">
       <DependentUpon>MenuPrincipal_Frms.cs</DependentUpon>
@@ -136,6 +145,7 @@
     <Content Include="Imagenes\block_32.png" />
     <Content Include="Imagenes\borrar.png" />
     <Content Include="Imagenes\Cerrar.png" />
+    <Content Include="Imagenes\Check.png" />
     <Content Include="Imagenes\Close.png" />
     <Content Include="Imagenes\delete_32.png" />
     <Content Include="Imagenes\floppy-disk.png" />

@@ -49,7 +49,7 @@ namespace Sistema_de_Gestion.Vista
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
         }
 
         private void btnMinimizar_Click(object sender, EventArgs e)

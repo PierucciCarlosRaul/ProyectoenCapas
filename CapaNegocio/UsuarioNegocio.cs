@@ -34,5 +34,15 @@ namespace CapaNegocio
         {
             return UsuariosDatos.ObtenerUsuarioxId(idusuario);
         }
+
+        public static Usuario Login(string usuario,string password)
+        {
+            return UsuariosDatos.Login( usuario,  password);
+        }
+
+        public static Usuario TraerUsuarioxLogin(string usuario, string password)
+        {
+            return UsuariosDatos.TraerUsuarioxLogin(usuario, password);
+        }
     }
 }

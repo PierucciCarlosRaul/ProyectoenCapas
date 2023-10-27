@@ -11,11 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidades", "CapaEntidades\CapaEntidades.csproj", "{500B375A-37A8-4D2C-81C1-FB96AE96DC79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppUsuariosWebAPI", "AppUsuariosWebAPI\AppUsuariosWebAPI.csproj", "{CBED0E64-272A-45A1-9AB6-30039ADDFD54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppUsuariosWebAPI", "AppUsuariosWebAPI\AppUsuariosWebAPI.csproj", "{CBED0E64-272A-45A1-9AB6-30039ADDFD54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppProductosWebAPI", "AppProductosWebAPI\AppProductosWebAPI.csproj", "{724BE5E8-EB83-4D52-84C6-7CC60F4C7959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppProductosWebAPI", "AppProductosWebAPI\AppProductosWebAPI.csproj", "{724BE5E8-EB83-4D52-84C6-7CC60F4C7959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppVentas_ProdVendidosWebAPI", "AppVentas_ProdVendidosWebAPI\AppVentas_ProdVendidosWebAPI.csproj", "{3F5A9EA3-D855-44D8-A94E-EA88B318152A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppVentas_ProdVendidosWebAPI", "AppVentas_ProdVendidosWebAPI\AppVentas_ProdVendidosWebAPI.csproj", "{3F5A9EA3-D855-44D8-A94E-EA88B318152A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInicioSesionWebAPI", "AppInicioSesionWebAPI\AppInicioSesionWebAPI.csproj", "{67B66BC0-FCAE-4464-ADD0-D2E344173075}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3F5A9EA3-D855-44D8-A94E-EA88B318152A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F5A9EA3-D855-44D8-A94E-EA88B318152A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F5A9EA3-D855-44D8-A94E-EA88B318152A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B66BC0-FCAE-4464-ADD0-D2E344173075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B66BC0-FCAE-4464-ADD0-D2E344173075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B66BC0-FCAE-4464-ADD0-D2E344173075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B66BC0-FCAE-4464-ADD0-D2E344173075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -185,6 +185,91 @@ namespace CapaDatos
             return usu;
         }
 
+        public static Usuario Login(string usuario, string password)
+        {
+            Usuario usu = new Usuario();
+
+            string _sente = "SELECT IdUsuario, Nombre, Apellido, NombreUsuario, Contraseña, Mail FROM Usuario where NombreUsuario = @NombreUsuario AND Contraseña = @Contraseña ";
+            try
+            {
+                using (SqlConnection conexion = new SqlConnection(connectionsting))
+                {
+                    conexion.Open();
+                    using (SqlCommand command = new SqlCommand(_sente, conexion))
+                    {
+                        command.Parameters.Add(new SqlParameter("NombreUsuario", SqlDbType.VarChar) { Value = usuario });
+                        command.Parameters.Add(new SqlParameter("Contraseña", SqlDbType.VarChar) { Value = password });
+
+                        using (SqlDataReader dr = command.ExecuteReader())
+                        {
+                            if (dr.HasRows)
+                            {
+                                if (dr.Read())
+                                {
+                                    usu.IdUsuario = dr["IdUsuario"] is DBNull ? 0 : Convert.ToInt32(dr["IdUsuario"]);
+                                    usu.Nombre = dr["Nombre"] is DBNull ? "" : dr["Nombre"].ToString();
+                                    usu.Apellido = dr["Apellido"] is DBNull ? "" : dr["Apellido"].ToString();
+                                    usu.UsuarioLogin = dr["NombreUsuario"] is DBNull ? "" : dr["NombreUsuario"].ToString();
+                                    usu.Password = dr["Contraseña"] is DBNull ? "" : dr["Contraseña"].ToString();
+                                    usu.Mail = dr["Mail"] is DBNull ? "" : dr["Mail"].ToString();
+
+                                }
+                            }
+                            dr.Close();
+                        }
+                    }
+                    conexion.Close();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Mensajes.MensajeError(ex);
+            }
+            return usu;
+
+        }
+
+        public static Usuario TraerUsuarioxLogin(string usuario, string password)
+        {
+            Usuario usu = new Usuario();
+
+            string _sente = "SELECT  Nombre + ' ' + Apellido 'NombreCompleto' FROM Usuario where NombreUsuario = @NombreUsuario AND Contraseña = @Contraseña ";
+            try
+            {
+                using (SqlConnection conexion = new SqlConnection(connectionsting))
+                {
+                    conexion.Open();
+                    using (SqlCommand command = new SqlCommand(_sente, conexion))
+                    {
+                        command.Parameters.Add(new SqlParameter("NombreUsuario", SqlDbType.VarChar) { Value = usuario });
+                        command.Parameters.Add(new SqlParameter("Contraseña", SqlDbType.VarChar) { Value = password });
+
+                        using (SqlDataReader dr = command.ExecuteReader())
+                        {
+                            if (dr.HasRows)
+                            {
+                                if (dr.Read())
+                                {                                   
+                                    usu.NombreCompleto = dr["NombreCompleto"] is DBNull ? "" : dr["NombreCompleto"].ToString();                                  
+
+                                }
+                            }
+                            dr.Close();
+                        }
+                    }
+                    conexion.Close();
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Mensajes.MensajeError(ex);
+            }
+            return usu;
+
+        }
+
     }
 }
 
